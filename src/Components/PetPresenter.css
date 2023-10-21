@@ -1,0 +1,20 @@
+.pink {
+    color: pink;
+}
+
+.blue {
+    color: #7575ff;
+}
+
+.Field-Name {
+    font-weight: 500 !important;
+}
+
+.Pet-Presenter {
+    min-width: 200px;
+}
+
+.decorated-text {
+    color: dodgerblue;
+    -webkit-text-stroke: 1px lightblue;
+}
